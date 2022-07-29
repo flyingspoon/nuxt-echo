@@ -2,8 +2,6 @@
 
 > Laravel Echo for Nuxt.js 2x (Modified by FlyingSpoon)
 
-[📖 **Release Notes**](./CHANGELOG.md)
-
 ## Which Laravel Echo does this work with? (FlyingSpoon)
 
 This has been tested with ```"laravel-echo": "^1.11.3"```, please install this
