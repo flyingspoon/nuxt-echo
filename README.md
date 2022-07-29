@@ -1,11 +1,5 @@
 # @nuxtjs/laravel-echo
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![Circle CI][circle-ci-src]][circle-ci-href]
-[![Codecov][codecov-src]][codecov-href]
-[![License][license-src]][license-href]
-
 > Laravel Echo for Nuxt.js 2x (Modified by FlyingSpoon)
 
 [📖 **Release Notes**](./CHANGELOG.md)
@@ -17,9 +11,11 @@ version to avoid any issues with compatibility.
 
 ## Module set-up (FlyingSpoon)
 ```
+...
 buildModules: [
 	'@/modules/nuxt-echo'
 ]
+...
 ```
 
 ## Example nuxt.config.js (FlyingSpoon)
